@@ -5,8 +5,8 @@
 print("Enter your name: ")
 name = input()
 
-if name == "Newman":
-     print("Hello Newman")
+if name == "Kimmie":
+     print("Hello Kimmie")
 elif name == "Jerry":
     print("Hello Jerry")
 elif name == "Kramer":
